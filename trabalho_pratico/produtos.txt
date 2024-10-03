@@ -1,0 +1,3 @@
+{codigo = 0001, nome = drone, preco = R$500.00, quantidade = 20}
+{codigo = 0002, nome = controle remoto, preco = R$300.00, quantidade = 20}
+{codigo = 0003, nome = camera, preco = R$150.00, quantidade = 15}

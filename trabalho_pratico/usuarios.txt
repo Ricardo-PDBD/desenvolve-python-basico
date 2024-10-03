@@ -1,0 +1,2 @@
+{"username": "Claudio", "password": "claudio123", "role": "gerente"}
+{"username": "Pedro", "password": "pedro123", "role": "funcionario"}
