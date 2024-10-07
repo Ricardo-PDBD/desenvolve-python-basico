@@ -1,0 +1,3 @@
+ricardo, ricardo123, gerente
+pedro, pedro321, funcionario
+claudio, claudio321, funcionario
